@@ -1,1 +1,10 @@
+python==3.8
+pandas
+numpy
+matplotlib
+seaborn
+joblib
+sklearn
+lightgbm
+
 
